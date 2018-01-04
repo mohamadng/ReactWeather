@@ -14,6 +14,7 @@ var Examples = (props) => {
     return (
         <div>
             <h1>Examples Component</h1>
+            <p>some change here!</p>
         </div>
     );
 };
